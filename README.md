@@ -1,7 +1,5 @@
 # Hi there, I'm Kristian! 👋 
-
-Experienced in Object Oriented Programming, having developed various CRUD projects using Java, JSP and Servlets based on the MVC protocol, 
-as well as working with C# in order to build various dynamic Android applications on Android Studio. <br>
+Experienced in Object Oriented Programming, having developed various CRUD projects and dynamic Android applications using Java, as well as having worked with C# in order to create multiple Windows Forms Applications. <br>
 Good knowledge of databases and SQL using either PostgreSQL or MySQL for the database part of the projects I’ve worked on, 
 while using Firebase for the implementation of Android applications.<br>
 I enjoy working with Python especially for projects related to Machine Learning, Artificial Intelligence and Data Science.<br>
